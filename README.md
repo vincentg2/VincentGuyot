@@ -1,4 +1,4 @@
-![Cover] (https://github.com/vincentg2/VincentGuyot/blob/master/git.png)
+![Cover](https://github.com/vincentg2/VincentGuyot/blob/master/git.png)
 # Vincent Guyot, Welcome to my GitHub page !
 
 I am a french fullstack Javascript Web Developper. 
