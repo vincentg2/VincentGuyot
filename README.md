@@ -1,4 +1,4 @@
-![Cover](https://github.com/vincentg2/VincentGuyot/blob/master/img/cover.jpg)
+![Cover](![image](https://user-images.githubusercontent.com/88653141/149367826-97a7f3e9-e20b-4cc9-bf0c-e414335a3484.png))
 # Vincent Guyot, Welcome to my GitHub page !
 
 I am a french fullstack Javascript Web Developper. 
