@@ -1,4 +1,3 @@
-![Header](https://github.com/vincentg2/VincentGuyot/blob/master/img/git.jpg "Header")
 # Vincent Guyot, Welcome to my GitHub page !
 
 I am a french fullstack Javascript Web Developper. 
