@@ -1,4 +1,4 @@
-# Vincent Guyot, Welcome to my GitHub page !
+# Welcome user!
 
 I am a french fullstack Javascript Web Developper. 
 I am currently working @ Glanceable, and i'm enjoying it ! 
